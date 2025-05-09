@@ -1,0 +1,4 @@
+Order of notebooks
+
+1. Preprocessing.ipynb - To remove columns and outliers
+2. 
